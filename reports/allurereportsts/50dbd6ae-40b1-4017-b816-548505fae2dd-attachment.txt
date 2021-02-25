@@ -1,0 +1,4 @@
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/ContactUs
+[32mINFO    [0m BasePage:BasePage.py:66 Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/ContactUs
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with LocatorType: text with the locatorValue :Contact Us form
+[32mINFO    [0m BasePage:BasePage.py:90  Element with LocatorType: text and with the locatorValue :Contact Us formis displayed
